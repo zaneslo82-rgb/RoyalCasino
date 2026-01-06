@@ -26,7 +26,7 @@
 * **Возможности**: Hit (взять карту), Stand (остановиться) и Double (удвоить ставку).
 * **Множители**: Стандартная победа x2, чистый Блэкджек x2.5.
 
-<img width="484" alt="Blackjack" src="https://github.com/user-attachments/assets/65505f6c-775e-4cfd-86e2-c83f44d66055" />
+<img width="454" height="286" alt="image" src="https://github.com/user-attachments/assets/64364295-0f83-4d23-b6ce-3cef65df8b5c" />
 
 ---
 
@@ -35,7 +35,8 @@
 * **Механика**: Каждый найденный алмаз увеличивает ваш итоговый выигрыш.
 * **Риск**: 5 спрятанных бомб моментально завершают игру проигрышем.
 
-<img width="465" alt="Treasure Hunt" src="https://github.com/user-attachments/assets/8505d13b-072f-4de4-ab1b-faad968b36ad" />
+<img width="484" height="494" alt="image" src="https://github.com/user-attachments/assets/4bde9f79-73ba-4535-85e8-4205c4c59fbe" />
+
 
 ---
 
@@ -44,7 +45,8 @@
 * **Множители**: От полной потери (x0.0) до джекпота в 10 раз больше ставки (x10.0).
 * **Анимация**: Плавное вращение барабана с визуальными эффектами.
 
-<img width="454" alt="Wheel of Fortune" src="https://github.com/user-attachments/assets/a931f96d-3914-481b-8e78-0b9f20daa1b6" />
+<img width="403" height="396" alt="image" src="https://github.com/user-attachments/assets/4204dcdd-41af-43a7-8233-1d0ac64f19e9" />
+
 
 ---
 
@@ -52,7 +54,8 @@
 Быстрые ставки на числа и вероятности.
 * **Варианты**: Четное/Нечетное, Меньше (1-3) или Счастливая 6 (x5).
 
-<img width="436" alt="Dice" src="https://github.com/user-attachments/assets/283bbe9e-7669-4e8b-8306-0b9f20daa1b6" />
+<img width="465" height="423" alt="image" src="https://github.com/user-attachments/assets/2063850f-17a8-4dd2-88b7-b0fdcd9452b0" />
+
 
 ---
 
