@@ -65,7 +65,8 @@
 | :--- | :--- |
 | `/casino <игра> <ставка>` | Открыть меню игры (blackjack, treasure, wheel, dice) |
 
-<img width="403" alt="Commands" src="https://github.com/user-attachments/assets/80421628-257f-49cb-b7eb-dd8dee983a6a" />
+<img width="558" height="387" alt="image" src="https://github.com/user-attachments/assets/47a15b06-0216-4409-b011-78187aeee8f4" />
+
 
 ---
 
